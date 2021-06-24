@@ -1,0 +1,7 @@
+C:\Training\AdoNetLab\AdoNetLab\bin\Debug\AdoNetLab.exe.config
+C:\Training\AdoNetLab\AdoNetLab\bin\Debug\AdoNetLab.exe
+C:\Training\AdoNetLab\AdoNetLab\bin\Debug\AdoNetLab.pdb
+C:\Training\AdoNetLab\AdoNetLab\obj\Debug\AdoNetLab.csproj.AssemblyReference.cache
+C:\Training\AdoNetLab\AdoNetLab\obj\Debug\AdoNetLab.csproj.CoreCompileInputs.cache
+C:\Training\AdoNetLab\AdoNetLab\obj\Debug\AdoNetLab.exe
+C:\Training\AdoNetLab\AdoNetLab\obj\Debug\AdoNetLab.pdb
